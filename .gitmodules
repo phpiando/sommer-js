@@ -1,0 +1,3 @@
+[submodule "packages/sommer-hice"]
+	path = packages/sommer-hice
+	url = git@github.com:phpiando/sommer-hice.git

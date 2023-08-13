@@ -1,0 +1,26 @@
+{
+  "name": "sommer",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Framework that contains classes that help in the development of websites in the frontend, creating a standardization and optimization of javascript codes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phpiando/sommer-js.git"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "keywords": ["framework", "js", "javascript", "vuejs", "vue"],
+  "author": "Roni Sommerfeld <roni@tech.mobi>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phpiando/sommer-js/issues"
+  },
+  "homepage": "https://github.com/phpiando/sommer-js#readme",
+  "dependencies": {
+    "@sommer/hice": "^0.0.1"
+  }
+}
